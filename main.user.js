@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Nexus
-// @namespace    https://github.com/zykieboi/nexus
+// @namespace    https://github.com/vplu/OctaPro
 // @version      1.3
-// @icon         https://github.com/zykieboi/nexus/blob/main/img/icon.png?raw=true
+// @icon         https://github.com/vplu/OctaPro/blob/main/img/icon.png?raw=true
 // @author       zykieboi
 // @description  Testing stuff :)
 // @match        https://octane.wtf/*
@@ -15,9 +15,9 @@
 // @connect      tcdn.octane.wtf
 // @connect      raw.githubusercontent.com
 // @run-at       document-start
-// @require      https://raw.githubusercontent.com/zykieboi/nexus/main/build/bundle.js?v=13
-// @downloadURL  https://raw.githubusercontent.com/zykieboi/nexus/main/main.user.js
-// @updateURL    https://raw.githubusercontent.com/zykieboi/nexus/main/main.user.js
+// @require      https://raw.githubusercontent.com/vplu/OctaPro/main/build/bundle.js?v=14
+// @downloadURL  https://raw.githubusercontent.com/vplu/OctaPro/main/main.user.js
+// @updateURL    https://raw.githubusercontent.com/vplu/OctaPro/main/main.user.js
 // ==/UserScript==
 (function () {
     'use strict';
