@@ -1,6 +1,4 @@
-<div align="center">
 
-<img src="img/banner.png" width="25%">
 
 <p>Extension for <a href="https://www.octane.wtf">Octane</a>.</p>
 
